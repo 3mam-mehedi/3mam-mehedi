@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=3mam-mehedi.3mam-mehedi&left_color=teal&right_color=crimson&left_text=%F0%9F%91%81%EF%B8%8F%20Profile%20view%20"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=3mam-mehedi.3mam-mehedi&left_color=darkgray&right_color=darkblue&left_text=%F0%9F%91%81%EF%B8%8F%20Profile%20view%20"  />
 </div>
 
 ###
